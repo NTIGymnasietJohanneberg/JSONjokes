@@ -1,0 +1,48 @@
+:root {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: rgba(255, 228, 196, 0.562);
+}
+
+main{
+    text-align: center;
+    padding: 1rem;
+    margin: 0;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 25%;
+    border-radius: 1rem;
+}
+
+.jokes-container{
+    padding: 2rem;
+    text-align: center;
+    margin: auto;
+    width: 60%;
+}
+
+p{
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: rgb(36, 123, 203);
+}
+
+button{
+    color: rgb(252, 248, 250);
+    background-color: rgb(231, 51, 144);
+    padding: 0.5rem 2rem;
+    border-radius: 0.7rem;
+    margin-top: 1.8rem;
+    border: none;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: rgba(184, 39, 113, 0.781);
+    cursor: pointer;
+}
